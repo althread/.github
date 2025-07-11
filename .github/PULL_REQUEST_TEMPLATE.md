@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 Pull Request"
+name: "Pull Request"
 about: Thank you for your interest in contributing to Althread!
 title: ''
 labels: ''
