@@ -13,7 +13,7 @@ We welcome and encourage all pull requests—whether it's fixing a bug, adding a
 
 ## Description
 
-_Provide a clear and concise description of what this pull request does:_
+_Please provide a clear and concise description of what this pull request does:_
 
 ---
 
