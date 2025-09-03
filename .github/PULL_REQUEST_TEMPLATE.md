@@ -1,12 +1,3 @@
----
-name: "Pull Request"
-about: Thank you for your interest in contributing to Althread!
-title: ''
-labels: ''
-assignees: ''
-
----
-
 We welcome and encourage all pull requests—whether it's fixing a bug, adding a feature, improving documentation, or anything else that helps the project. Your contribution makes a difference!
 
 ---
